@@ -1,2 +1,26 @@
-# ignore all logs 
-*/backhappy/node_modules/*
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/backhappy/node_modules
+/fronthappy/node_modules
+/fronthappy/.pnp
+/fronthappy/.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+/fronthappy/.DS_Store
+/fronthappy/.env.local
+/fronthappy/.env.development.local
+/fronthappy/.env.test.local
+/fronthappy/.env.production.local
+
+/fronthappy/npm-debug.log*
+/fronthappy/yarn-debug.log*
+/fronthappy/yarn-error.log*
+
+/conceitos
