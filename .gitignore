@@ -5,6 +5,10 @@
 /fronthappy/node_modules
 /fronthappy/.pnp
 /fronthappy/.pnp.js
+/mobile/node_modules
+/mobile/.expo
+/mobile/.expo-shared
+/mobile/assets
 
 # testing
 /coverage
@@ -22,5 +26,6 @@
 /fronthappy/npm-debug.log*
 /fronthappy/yarn-debug.log*
 /fronthappy/yarn-error.log*
+/mobile/yarn-error.log*
 
 /conceitos
